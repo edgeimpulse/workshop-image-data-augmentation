@@ -44,7 +44,7 @@ This works on a variety of data types!
 
 The [dataset in this repository](electronic-components-png-original.zip) is the same found in the public Edge Impulse project you just saw. We are going to augment this dataset and re-train the same model to see how it affects accuracy.
 
-To start, open the ***LINK!!!***.
+To start, open the [Jupyter Notebook in Colab](https://colab.research.google.com/github/edgeimpulse/workshop-image-data-augmentation/blob/main/image-data-augmentation.ipynb)
 
 Execute each cell by pressing **shift + enter**. Read through the code and comments to broadly understand how we are generating various transformations from a single image. Near the top, you will be asked to copy in the API key from an Edge Impulse project.
 
