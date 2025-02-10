@@ -1,6 +1,6 @@
 # Image Data Augmentation Workshop
 
-Welcome to the data augmentation workshop for image classification! 
+Welcome to the data augmentation workshop for image classification!
 
 ## Check initial accuracy
 
@@ -93,7 +93,7 @@ You can automate this entire process when moving data from an Edge Impulse Organ
 
 ### Synthetic data generation
 
-While samples generated via data augmentation can be considered a form "synthetic data," true synthetic data is AI generated! Imagine using [text-to-speech](https://cloud.google.com/text-to-speech) to automatically create keyword samples or [DALL-E 2](https://openai.com/product/dall-e-2) to generate images to use in your training set. 
+While samples generated via data augmentation can be considered a form "synthetic data," true synthetic data is AI generated! Imagine using [text-to-speech](https://cloud.google.com/text-to-speech) to automatically create keyword samples or [DALL-E 2](https://openai.com/product/dall-e-2) to generate images to use in your training set.
 
 If you would like to dig into this concept deeper, our own @jimbruges has a fantastic demo using Google's text-to-speech package to generate words for a keyword spotting dataset. Check out [his video here](https://www.youtube.com/watch?v=AoTB7eRjRiw):
 
@@ -105,18 +105,4 @@ This tutorial (README.md) is licensed under [CC BY-NC-SA 4.0](https://creativeco
 
 Slides are licesned under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Unless otherwise specified, code in this repository is licensed under the APACHE 2.0 open source license.
-
-Copyright 2023 EdgeImpulse, Inc.
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-[http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+Source code is licensed according to [LICENSE](LICENSE).
